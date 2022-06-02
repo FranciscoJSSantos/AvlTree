@@ -8,7 +8,6 @@ public class App {
     public static void main(String[] args) {
         
         AVLTree tree = new AVLTree();
-        Node node = new Node();
         
         tree.insert(30);
         tree.insert(40);
